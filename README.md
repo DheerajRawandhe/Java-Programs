@@ -6,7 +6,6 @@ Java is a powerful, high-level, object-oriented programming language. It is wide
 The language supports Object-Oriented Programming (OOP) principles like Encapsulation, Inheritance, Polymorphism, and Abstraction, which help in writing modular and reusable code.🚀
 
 
-
 ## Concepts I Have Learned :-
 Here are the topics I have covered in Java :-  
 -  **Operators** (Arithmetic, Logical, Bitwise)  
