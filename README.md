@@ -7,7 +7,7 @@ The language supports Object-Oriented Programming (OOP) principles like Encapsul
 
 # Concepts I Have Learned :- 
 Here are the topics I have covered in Java :- 
--  **Operators** (Arithmetic, Logical, Bitwise)  
+-  **Operators** (Arithmetic, Logical, Bitwise) 
 -  **Statements** (if-else, switch)  
 -  **Loops** (for, while, do-while)  
 -  **Strings** (String methods, manipulation)  
