@@ -17,7 +17,7 @@ Here are the topics I have covered in Java :-
 
 ## How to Run Java Programs :-
 1. Compile the Java file
-- Terminal Command - javac filename.java
+- Terminal Command - javac filename.jav
   
 2. Run the Java file
 - Terminal Command - java filename
