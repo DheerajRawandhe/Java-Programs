@@ -1,5 +1,5 @@
 # Java-Programs
-I have learned and practiced many important concepts in Java, I covered fundamental and advanced Java
+I have learned and practiced many important concepts in Java, I covered fundamental and advanced Java.
 
 ## Introduction Java :- 
 Java is a powerful, high-level, object-oriented programming language. It is widely used for building web applications, mobile applications(Android), desktop software, and enterprise solutions. Code written in Java can run on any platform that has a Java Virtual Machine.
