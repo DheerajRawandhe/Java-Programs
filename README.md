@@ -1,5 +1,5 @@
 # Java-Programs
-I have learned and practiced many important concepts in Java, I covered fundamental and advanced Java
+I have learned and practiced many important concepts in Java, I covered fundamental and advanced Java.
 
 
 ## Introduction Java :-
