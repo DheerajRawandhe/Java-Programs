@@ -16,7 +16,7 @@ Here are the topics I have covered in Java :-
 -  **Methods** (Function creation, return types, parameters)  
 -  **Arrays** (Single and Multidimensional)
 
-## How to Run Java Programs :
+## How to Run Java Programs :-
 1. Compile the Java file
 - Terminal Command - javac filename.java
   
